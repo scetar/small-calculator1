@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+    background-image: url(m.jpeg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: cornsilk;
+    color: red;
+}
+h2{
+    text-shadow: 5px 5px 5px orange;
+    color: red;
+    font-size: xx-large;
+}
+table{
+    margin-left: 56px;
+    margin-top: 20px;
+    background-color:black;
+    
+}
+table td{
+    background-color: black;
+}
+.hii{
+    height:80px;
+    width:70px;
+    background-color:bisque;
+   
+
+font-size: 20px;
+}
+.hello{
+    height: 50px;
+    width: 300px;
+}
+.hii:hover{
+    height:90px;
+    width:90px;
+    background-color:orange;
+}
+.calculator{
+    height: 500px;
+    width: 400px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    background-color: grey;
+    box-shadow: 0 0 10px black;
+    margin:0 auto;
+}
+.vv{
+    background-color: chartreuse;
+    height:50px;
+    width:300px;
+}
